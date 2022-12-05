@@ -37,5 +37,8 @@ def Global_Vars():
 
     x-=3 # X minus 3
 
+#Call this
+Global_Vars()
+
 # If we print it it return 2
 print(x)
