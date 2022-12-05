@@ -1,3 +1,5 @@
+//Created for site monopolystar.ru
+
 $('#service-msg-wrapper').remove();
 for (let step = 0; step < 500; step++) {
   setTimeout(function() {var message = 'YOUR MESSAGE HERE!';
