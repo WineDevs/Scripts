@@ -12,6 +12,10 @@ count = lambda a,b : a+b # It return a+b variables
 
 print(count(10,20)) # Print 30
 
+lenght = lambda array : len(array)
+
+print(lenght([1,2,3,4,5]))# Return 5 (lenght of array)
+
 '''
 plus = lambda a,b : a+b
 minus = lambda a,b : a-b
